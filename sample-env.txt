@@ -1,0 +1,2 @@
+USERNAME=<Your_Instagram_Username>
+PASSWORD=<Your_Instagram_Password>
